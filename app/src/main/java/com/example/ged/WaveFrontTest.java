@@ -1,3 +1,4 @@
+// Bjørn Christensen, 1/5 2024
 package com.example.ged;
 
 import static java.lang.Math.*;
